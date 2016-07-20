@@ -6,3 +6,4 @@ Sample application from a free workshop that I'll be teaching.  Application demo
 
 `npm i`
 
+Your application will be viewable on `http://locaholst:3000`
